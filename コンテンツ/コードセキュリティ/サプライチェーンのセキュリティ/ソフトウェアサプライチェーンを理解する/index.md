@@ -1,4 +1,4 @@
----
+---index.md
 title: Understanding your software supply chain
 versions:
   free-pro-team: '*'
